@@ -1,6 +1,6 @@
 from urllib2 import Request, urlopen, URLError, HTTPError
 
-req = Request('http://www.baidu.com')
+req = Request('http://bbs.csdn.net/callmewhy')
   
 try:  
   
